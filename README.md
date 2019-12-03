@@ -5,11 +5,16 @@
 https://github.com/OpenZeppelin/openzeppelin-sdk/blob/master/packages/lib/README.md
 
 - Usage
+
+```
 Suppose there is a contract called MyContract in the file
 contracts/MyContract.sol, already compiled to build/contracts/MyContract.json,
 and that there is a development blockchain network running locally in port 9545.
+```
 
+```
 Open a Node.js console:
+```
 
 ```sh
 node
